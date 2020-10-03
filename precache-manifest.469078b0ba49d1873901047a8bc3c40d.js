@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b09dd969cb7489052fca0e9344691f64",
+    "revision": "cb9fa92a17326dbffee94f541bb316cb",
     "url": "/dice-roll-app/index.html"
   },
   {
-    "revision": "d62aa9b54ed7ea35db5c",
+    "revision": "feddab993437fa393d67",
     "url": "/dice-roll-app/static/css/main.aef3f3fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dice-roll-app/static/js/2.ae373ca6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d62aa9b54ed7ea35db5c",
-    "url": "/dice-roll-app/static/js/main.d1878bcf.chunk.js"
+    "revision": "feddab993437fa393d67",
+    "url": "/dice-roll-app/static/js/main.0b43bb3e.chunk.js"
   },
   {
     "revision": "610cf4da0f031fb7458e",
