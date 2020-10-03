@@ -13,7 +13,7 @@ function App() {
     'https://etc.usf.edu/clipart/42100/42161/die_04_42161_mth.gif',
     'https://etc.usf.edu/clipart/42100/42162/die_05_42162_mth.gif',
     'https://etc.usf.edu/clipart/42100/42164/die_06_42164_mth.gif',
-    'http://clipart-library.com/images/qcBX8Xp8i.gif',
+    'https://thumbs.gfycat.com/PastelComplicatedAfricanfisheagle-small.gif',
   ];
 
   if (!hasSetMax) {
